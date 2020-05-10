@@ -133,6 +133,6 @@ body {
   -o-transition-timing-function: cubic-bezier(0.890, -0.170, 0.140, 1.225); 
   transition-timing-function: cubic-bezier(0.890, -0.170, 0.140, 1.225); /* custom */
 }
-/* .btn-slice:hover:before{
+.btn-slice:hover:before{
     width: 130%;
-} */
+}
