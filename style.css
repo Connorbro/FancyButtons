@@ -56,10 +56,10 @@ body {
   transition-timing-function: cubic-bezier(1.000, -0.055, 0.025, 1.040); /* custom */
   
   -webkit-transition-delay:0.35s;     
-  -moz-transition-delay::0.35s; 
-  -ms-transition-delay::0.35s;     
-  -o-transition-delay::0.35s;     
-  transition-delay::0.35s;
+  -moz-transition-delay:0.35s; 
+  -ms-transition-delay:0.35s;     
+  -o-transition-delay:0.35s;     
+  transition-delay:0.35s;
 }
 
 .btn-slice .bottom  {
@@ -80,10 +80,10 @@ body {
   transition-timing-function: cubic-bezier(1.000, -0.055, 0.025, 1.040); /* custom */
   
   -webkit-transition-delay:0.35s;     
-  -moz-transition-delay::0.35s; 
-  -ms-transition-delay::0.35s;     
-  -o-transition-delay::0.35s;     
-  transition-delay::0.35s;
+  -moz-transition-delay:0.35s; 
+  -ms-transition-delay:0.35s;     
+  -o-transition-delay:0.35s;     
+  transition-delay:0.35s;
 }
 
 .btn-slice .bottom span {
@@ -95,7 +95,7 @@ body {
 .btn-slice:hover .top {
     top: -5px;
   -webkit-transition-delay:0.35s;     
-  -moz-transition-delay::0.35s; 
+  -moz-transition-delay:0.35s; 
   -ms-transition-delay:0.35s;     
   -o-transition-delay:0.35s;     
   transition-delay:0.35s; 
